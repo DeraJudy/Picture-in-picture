@@ -14,8 +14,6 @@ async function selectMediaStream() {
     }
 }
 
-console.log();
-
 button.addEventListener('click', async () => {
     // disable button
     button.disabled = true;
